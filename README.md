@@ -1,6 +1,5 @@
 ## Branch Description
-This is DEV branch - main developing branch of the project. All your code should placed here.
+This is FD branch - developing branch for some research work like possible future features and so on. Some of them could be included in the project. 
 
-For some feature research purposes you should use FB branch.
-
+Feel free to test!
 ________________________________________
