@@ -1,8 +1,0 @@
-[init]
-	defaultBranch = main
-[user]
-	name = mxsf2
-	email = mxsf2@email.com
-[alias]
-        history = log --graph 
-        cm = commit -m
